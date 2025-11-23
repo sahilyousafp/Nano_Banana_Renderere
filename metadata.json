@@ -1,0 +1,5 @@
+{
+  "name": "LumionGen Node Editor",
+  "description": "A node-based image editing application powered by Gemini 2.5 Flash. Connect render passes, apply masking, and generate photorealistic Lumion-style visuals.",
+  "requestFramePermissions": []
+}
